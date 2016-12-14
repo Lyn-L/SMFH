@@ -10,4 +10,4 @@ SMFH.m: function to compute the hash code and hash function <br />
 normalize1.m: function to normalize the feature points <br />
 testWiki.m: example script to run the code on the Wiki dataset <br />
 
-p.s. The parameters \mu and \alpha should be set to 100 and 10 to achieve well performance, when the feature dimensional is high. And the number of sampling should be increased for the large-scale training set, such as 5000~10000.
+p.s. The parameters $\mu$ and $\alpha$ should be set to 100 and 10 to achieve well performance, when the feature dimensional is high. And the number of sampling should be increased for the large-scale training set, such as 5000~10000.
